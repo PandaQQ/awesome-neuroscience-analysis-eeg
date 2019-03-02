@@ -4,3 +4,4 @@
 
 
 https://medium.com/@urish/reactive-brain-waves-af07864bb7d4
+https://channel9.msdn.com/Events/PyData/Seattle2017/BRK12
